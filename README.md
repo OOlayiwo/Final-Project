@@ -1,23 +1,22 @@
-# [Simple Stocks](https://final-project-theta-umber.vercel.app/stocks.html)
+# [Stocks](https://final-project-theta-umber.vercel.app/stocks.html)
 
 
 
 ## Description
-This website will utilize Polygon and frankfurter API tools to to display real-time stock prices on a dashboard. We have implemented an interactive stock ticker and different charts as descriptive representations. This output is crucial for our varied stakeholders (small investors and financial analysts) who rely on accurate and
-up-to-date stock information in order to make their decisions on market matters.
+This dashboard delivers real-time stock insights using Polygon and Frankfurter APIs, featuring an interactive ticker and diverse charts. This crucial, up-to-the-minute data empowers both small investors and financial analysts in their market decisions.
 ## Targeted Browsers 
 
 ### Android Users (Chrome)
 
-* Many Android users rely on Google Chrome as their primary browser. Our your website will performs well here, as Android devices have varying screen sizes and resolutions. Scaling charts and interactive displays appropriately has been a major focus through testing. 
-* Using strategies such as conditional CSS and optimizing file sizes to allow devices with lower hardware capabalities to access the web application smoothly. 
+* Chrome is the go-to browser for many Android users, and your website is designed to shine on this platform. We've rigorously tested and optimized scaling for charts and interactive elements across the diverse range of Android screen sizes and resolutions. 
+* Furthermore, through techniques like conditional CSS and optimized file sizes, we ensure a smooth experience even on Android devices with lower hardware capabilities.
 
 ### Desktop Users (Chrome, Edge, Safari, Firefox)
 
-* Our most optimized targeted browser and platform are desktop users due to our scope and design process. Ultimately, having a larger display for detailed charts and analytics is ideal for our stakeholders. 
+* While our design and scope are initially optimized for desktop users, providing an ideal experience for viewing detailed charts and in-depth analytics on larger displays, we recognize the importance of accessibility across various platforms.
 * Keyboard and mouse interactions such as hovering, shortcuts and persistent navigation provide an edge in usability. 
 
 
 ## Developer Manual
-
+https://github.com/OOlayiwo/Final-Project/blob/d36c5711be6bc449cbaabf6bc22fdde8a2c5eae5/documents/developer_manual.md
 
