@@ -1,5 +1,7 @@
+
+
 {
-  "name": "inst377---final-project",
+  "name": "Final-Project", 
   "version": "1.0.0",
   "description": "Final Project INST377",
   "main": "index.js",
@@ -11,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sidney-HC/INST377---Final-Project.git"
+    "url": "git+https://github.com/OOlayiwo/Final-Project.git" 
   },
-  "author": "Sidney Howard-Clinton",
+  "author": "Opeyemi Olayiwola",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sidney-HC/INST377---Final-Project/issues"
+    "url": "https://github.com/OOlayiwo/Final-Project/issues"
   },
-  "homepage": "https://github.com/sidney-HC/INST377---Final-Project#readme",
+  "homepage": "https://github.com/OOlayiwo/Final-Project#readme" ,
   "dependencies": {
     "@supabase/supabase-js": "^2.47.3",
     "express": "^4.21.2",

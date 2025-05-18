@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #af7d00c8;
   color: white;
   padding: 20px;
   text-align: center;
@@ -30,7 +30,7 @@ body, ul, li, a {
 
 /* Header Styling */
 header {
-  background-color: #007BFF;
+  background-color: #9500ff;
   color: white;
   padding: 10px 0;
 }
@@ -58,7 +58,7 @@ header {
 }
 
 .nav-links li a:hover {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   color: #007BFF;
 }
 /* General Reset */
@@ -81,7 +81,7 @@ main {
 
 /* Footer Styling */
 footer {
-  background-color: #007BFF;
+  background-color: #00ffffc5;
   color: white;
   text-align: center;
   padding: 10px 0;
