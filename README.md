@@ -1,4 +1,4 @@
-# [Simple Stocks](https://inst-377-final-project-five.vercel.app/stocks.html)
+# [Simple Stocks](https://final-project-theta-umber.vercel.app/stocks.html)
 
 
 
@@ -20,5 +20,4 @@ up-to-date stock information in order to make their decisions on market matters.
 
 ## Developer Manual
 
-[Developer Manual](https://github.com/OOlayiwo/Final-Project/blob/main/docs/developer_manual.md)
 
